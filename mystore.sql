@@ -1,7 +1,7 @@
-#my store items with price and other informations, sorted by price 
-#Caculated SUM of the values 
-#Sep 16,2017
-#Author:Hanan Pisheh
+--my store items with price and other informations, sorted by price 
+--Caculated SUM of the values 
+--Sep 16,2017
+--Author:Hanan Pisheh
 
 
 
